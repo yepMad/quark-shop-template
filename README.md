@@ -5,6 +5,9 @@ Esse desafio tem como objetivo enteder suas habilidades básicas com React Nativ
 ### Template da aplicação
 Para agilizar o início do projeto, você pode utilizar esse repositório git como template para iniciar sua aplicação.
 
+#### O que é Git Template?
+Git Template é uma forma de você dar um "fork", ou apenas copiar, um projeto do GitHub para utilizar como base, sem haver necessidade de ficar vinculado ao projeto original. [Saibe o que é um Git Template](https://youtu.be/aYYNXK9tt8Y)
+
 ### Versões da Aplicação
 
 Antes de iniciar o projeto, verifique se você está com as seguintes versões do Node, NPM e Yarn:
@@ -14,9 +17,6 @@ Antes de iniciar o projeto, verifique se você está com as seguintes versões d
 - Yarn >= 1.23 (não utilize Yarn 2!)
 
 PS: Lembre-se de executar `yarn` ou `npm install` no seu terminal na raiz do projeto para instalar todos os node_modules.
-
-#### O que é Git Template?
-Git Template é uma forma de você dar um "fork", ou apenas copiar, um projeto do GitHub para utilizar como base, sem haver necessidade de ficar vinculado ao projeto original. [Saibe o que é um Git Template](https://youtu.be/aYYNXK9tt8Y)
 
 ### Utilizando uma fake API
 
