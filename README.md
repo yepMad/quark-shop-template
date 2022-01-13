@@ -34,6 +34,8 @@ Rotas existentes:
 
 Você deve seguir o layout do [Figma](https://www.figma.com/file/9bbq084YJeAYIAv56BtwYf/QuarkShop?node-id=0%3A1), feedbacks que não estiverem explícitos na plataforma podem ser elaborados por você mesmo.
 
+PS: Para ver detalhes no Figma, como cores e baixar ícones, você precisa criar e entrar em uma conta.
+
 ### Funcionalidades da aplicação
 
 - **`Listar os produtos`**: Sua `Página Principal` deve ser capaz de exibir uma listagem de todos os produtos. Deve ser possível filtrar por uma ou mais de uma categoria. Assim como deve ser possível filtrar por nenhuma.
